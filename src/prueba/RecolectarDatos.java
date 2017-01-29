@@ -1,4 +1,4 @@
-package pruebaCRUD;
+package prueba;
 
 import java.sql.ResultSet;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package pruebaCRUD;
+package prueba;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

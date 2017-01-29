@@ -1,4 +1,4 @@
-package pruebaCRUD;
+package prueba;
 
 import java.util.ArrayList;
 

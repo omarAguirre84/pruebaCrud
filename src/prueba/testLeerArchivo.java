@@ -1,4 +1,4 @@
-package pruebaCRUD;
+package prueba;
 
 
 public class testLeerArchivo {

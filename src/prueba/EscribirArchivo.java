@@ -1,4 +1,4 @@
-package pruebaCRUD;
+package prueba;
 
 import java.io.BufferedWriter;
 import java.io.FileOutputStream;
