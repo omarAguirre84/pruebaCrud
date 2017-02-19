@@ -19,8 +19,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="3" language="java" name="prueba.RecolectarDatos" project="x_pruebaCRUD" 
-    file="/x_pruebaCRUD/src/prueba/RecolectarDatos.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="3" language="java" name="prueba.Recolector" project="x_pruebaCRUD" 
+    file="/x_pruebaCRUD/src/prueba/Recolector.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="99" width="212" x="491" y="-94"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      

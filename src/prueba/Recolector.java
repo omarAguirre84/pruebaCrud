@@ -3,7 +3,7 @@ package prueba;
 import java.sql.ResultSet;
 import java.util.ArrayList;
 
-public class RecolectarDatos {
+public class Recolector {
 
 	public static ArrayList<Row> recolectar(ResultSet result) {
 		ArrayList<Row> res = null;
@@ -30,4 +30,5 @@ public class RecolectarDatos {
 
 		}
 		return res;
-	}}
+	}
+}

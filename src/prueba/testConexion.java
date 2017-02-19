@@ -13,7 +13,7 @@ public class testConexion {
 		ConexionABase c = new ConexionABase();
 		
 		c.iniciarConexion(dbURL, username, password); 
-		ArrayList<Row> recoleccion = RecolectarDatos.recolectar(c.ejecutarQuery(sql));
+		ArrayList<Row> recoleccion = Recolector.recolectar(c.ejecutarQuery(sql));
 		
 		EscribirArchivo.escribir(recoleccion);
 		c.cerrarConexion();	
